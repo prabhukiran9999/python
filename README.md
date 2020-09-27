@@ -6,3 +6,4 @@ have teeth
 is danger
 will kill
 will choke
+will gag
