@@ -5,3 +5,4 @@ is black
 have teeth
 is danger
 will kill
+will choke
